@@ -1,0 +1,8 @@
+   <svg width="200" height="180" xmlns="http://www.w3.org/2000/svg">
+    <ellipse
+        cx="100" ry="50" cy="80" rx="90"
+        fill="orange"
+        stroke="green"
+        stroke-width="5"
+    />
+</svg>
